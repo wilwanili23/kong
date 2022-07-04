@@ -26,6 +26,6 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Run deck deck-sync
-        run: deck sync --kong-addr http://44.194.158.130:8001
+        run: deck dump --kong-addr http://44.194.158.130:8001
 
      
