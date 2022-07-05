@@ -12,7 +12,7 @@ services:
       hide_client_headers: false
       hour: 10000
       limit_by: consumer
-      minute: 3
+      minute: 20
       month: null
       path: null
       policy: local
